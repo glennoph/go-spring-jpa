@@ -1,6 +1,6 @@
 package gospringjpa.gospringjpa.repo;
 
-import gospringjpa.gospringjpa.model.Customer;
+import gospringjpa.gospringjpa.domain.Customer;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

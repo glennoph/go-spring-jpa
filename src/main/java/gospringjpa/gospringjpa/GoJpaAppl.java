@@ -1,6 +1,6 @@
 package gospringjpa.gospringjpa;
 
-import gospringjpa.gospringjpa.model.Customer;
+import gospringjpa.gospringjpa.domain.Customer;
 import gospringjpa.gospringjpa.repo.CustomerRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;

@@ -1,4 +1,4 @@
-package gospringjpa.gospringjpa.model;
+package gospringjpa.gospringjpa.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
