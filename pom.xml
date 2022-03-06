@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>go-spring-jpa</groupId>
-	<artifactId>go-spring-jpa</artifactId>
+	<artifactId>go-jpa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>go-spring-jpa</name>
+	<name>go-jpa</name>
 	<description>Demo project for Spring Boot JPA</description>
 	<properties>
 		<java.version>11</java.version>
